@@ -1,5 +1,5 @@
 # StagPlot
-A Jupyter Notebook for plotting fields from a StagYY output.
+Jupyter Notebooks for plotting fields from a StagYY output.
 
 ## First steps:
 Create a virtual environment for StagPy in your preferred directory with this command:\
@@ -11,4 +11,4 @@ Now activate the environment (Linux):\
 Install StagPy:\
 `pip install stagpy`
 
-Now you can use the Jupyter notebook using the virtual environment as the Jupyter Kernel.
+Now you can use the Jupyter notebooks using the virtual environment as the Jupyter Kernel.
